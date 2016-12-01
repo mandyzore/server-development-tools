@@ -32,5 +32,5 @@ sl your_file.xx
 ```
 
 
-## mount remote directory to local 
+## NFS: mount remote directory to local 
 
