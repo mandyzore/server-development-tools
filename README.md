@@ -14,7 +14,11 @@ remote OS:  Ubuntu 14.04.5 LTS
 
 commands:
 
-1.local: ```ssh -R 52698:localhost:52698 user@remote_domain```
+1.local:
+
+install package rsub in sublime
+
+ ```ssh -R 52698:localhost:52698 user@remote_domain```
 
 2.remote:
 
