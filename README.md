@@ -6,6 +6,8 @@
 
 ## use Sublime over SSH
 
+reference: http://dayuan.im/blog/use-sublime-to-modify-remote-file.html/
+
 Sublime verision: Sublime Text 2
 
 local OS: MacOS
